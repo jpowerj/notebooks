@@ -1,0 +1,5 @@
+---
+tags:
+  - Region
+countries: [Cuba]
+---
