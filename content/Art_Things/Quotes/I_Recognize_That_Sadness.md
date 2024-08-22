@@ -2,6 +2,7 @@
 title: I Recognize That Sadness...
 tags:
   - "#Quote"
+index: "false"
 ---
 # I recognize that sadness...
 

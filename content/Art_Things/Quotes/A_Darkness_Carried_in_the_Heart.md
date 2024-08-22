@@ -3,6 +3,7 @@ title: A Darkness Carried in the Heart...
 tags:
   - "#Quote"
 artist: "[[CunninLynguists]]"
+index: "false"
 ---
 # A darkness carried in the heart...
 

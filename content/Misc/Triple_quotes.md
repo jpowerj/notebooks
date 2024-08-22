@@ -12,6 +12,6 @@ FROM #Triple_Quoted
 
 <!-- QueryToSerialize: LIST FROM #Triple_Quoted -->
 <!-- SerializedQuery: LIST FROM #Triple_Quoted -->
-- [[The_World/Terrorism.md|Terrorism]]
 - [[The_World/Vietnam_War.md|Vietnam_War]]
+- [[The_World/Terrorism.md|Terrorism]]
 <!-- SerializedQuery END -->

@@ -2,5 +2,7 @@
 tags:
   - Book
 name: 
-authors: Debraj Ray
+authors:
+  - Debraj Ray
+index: "false"
 ---

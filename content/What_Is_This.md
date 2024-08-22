@@ -15,7 +15,7 @@ To some extent they're separated into categories, but there are two things that 
 
 ### Ontology
 
-At some point between high school/beginning of undergrad, I had my mind completely blown by [[Object-Oriented Programming]]. To me it was like, discovering the internal language that my brain had been using my whole life to store/organize information.
+At some point between high school/beginning of undergrad, I had my mind completely blown by [[Object-Oriented_Programming]]. To me it was like, discovering the internal language that my brain had been using my whole life to store/organize information.
 
 So far, the main issue with Obsidian is just... it's designed around a bunch of Markdown (`.md` format) files, which is great for a ton of reasons, but it just doesn't exactly match the OOP way of thinking that fires so many serotonins in my brain. It's the closest thing I can find, though, especially when combined with the [Metadata Menu](https://mdelobelle.github.io/metadatamenu/) and [Dataview](https://blacksmithgu.github.io/obsidian-dataview/) plugins!
 ### Cross-References
