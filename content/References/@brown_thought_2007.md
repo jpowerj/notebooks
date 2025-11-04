@@ -1,5 +1,0 @@
----
-tags:
-  - Book
-index: "false"
----
