@@ -1,14 +1,4 @@
 ---
-limit: 20
-mapWithTag: true
-icon: palette
-tagNames: 
-filesPaths: 
-bookmarksGroups: 
-excludes: 
-extends: 
-savedViews: []
-favoriteView: 
-fieldsOrder: []
-version: "2.1"
+{"publish":true,"created":"2024-08-22T00:02:43.575-04:00","modified":"2024-08-24T20:40:45.462-04:00","published":"2024-08-24T20:40:45.462-04:00","cssclasses":""}
 ---
+

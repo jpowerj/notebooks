@@ -1,15 +1,4 @@
 ---
-limit: 20
-mapWithTag: true
-icon: lightbulb
-tagNames: 
-filesPaths: 
-bookmarksGroups: 
-excludes: 
-extends: 
-savedViews: []
-favoriteView: 
-fieldsOrder: []
-version: "2.3"
-fields: []
+{"publish":true,"created":"2024-08-12T00:35:19.193-04:00","modified":"2024-08-12T00:35:19.193-04:00","published":"2024-08-12T00:35:19.193-04:00","cssclasses":""}
 ---
+

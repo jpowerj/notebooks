@@ -1,21 +1,4 @@
 ---
-fields:
-  - name: author
-    type: Input
-    options: {}
-    path: ""
-    id: DXTG3W
-version: "2.2"
-limit: 20
-mapWithTag: true
-icon: package
-tagNames: 
-filesPaths: 
-bookmarksGroups: 
-excludes: 
-extends: 
-savedViews: []
-favoriteView: 
-fieldsOrder:
-  - DXTG3W
+{"publish":true,"created":"2024-08-18T21:01:25.914-04:00","modified":"2024-08-18T21:01:25.914-04:00","published":"2024-08-18T21:01:25.914-04:00","cssclasses":""}
 ---
+

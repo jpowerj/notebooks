@@ -1,21 +1,4 @@
 ---
-limit: 20
-mapWithTag: true
-icon: land-plot
-tagNames: 
-filesPaths: 
-bookmarksGroups: 
-excludes: 
-extends: 
-savedViews: []
-favoriteView: 
-fieldsOrder:
-  - vdQZek
-version: "2.2"
-fields:
-  - name: extant
-    type: Boolean
-    options: {}
-    path: ""
-    id: vdQZek
+{"publish":true,"created":"2024-08-06T18:36:52.285-04:00","modified":"2024-08-06T18:36:52.285-04:00","published":"2024-08-06T18:36:52.285-04:00","cssclasses":""}
 ---
+
