@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Empire's Workshop","created":"2024-12-23T05:34:58.126-05:00","modified":"2024-12-26T23:33:16.864-05:00","published":"2024-12-26T23:33:16.864-05:00","tags":["Book"],"cssclasses":""}
+{"publish":true,"title":"Empire's Workshop","created":"2024-12-23T05:34:58.126-05:00","modified":"2025-11-26T03:04:01.150-05:00","published":"2025-11-26T03:04:01.150-05:00","tags":["Book"],"cssclasses":""}
 ---
 
 
