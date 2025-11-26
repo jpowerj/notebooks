@@ -2,10 +2,9 @@
 title: Welcome to Jeff's Second Brain
 index: "false"
 ---
-# Welcome to Jeff's Second Brain
-
 > [!faq]- What Is This?
 > ![[What_Is_This|What Is This?]]
+> 
 
 ## Notebook Index
 <!-- QueryToSerialize: TABLE WITHOUT ID link(file.name, title) AS "Page", file.mtime AS "Last Updated" FROM "" WHERE index != "false" AND file.folder != "fileClass" SORT file.mtime DESC -->
@@ -13,6 +12,7 @@ index: "false"
 
 | Page                                                                                     | Last Updated               |
 | ---------------------------------------------------------------------------------------- | -------------------------- |
+| [[The_World/July_Revolution.md\|July Revolution]]                                        | 12:39 AM - August 22, 2024 |
 | [[Math/Set.md\|Set]]                                                                     | 12:38 AM - August 22, 2024 |
 | [[Math/Gödel's_Incompleteness_Theorem.md\|Gödel's Incompleteness Theorem]]               | 12:37 AM - August 22, 2024 |
 | [[Math/Object-Oriented_Programming.md\|Object-Oriented Programming]]                     | 12:36 AM - August 22, 2024 |
@@ -70,7 +70,6 @@ index: "false"
 | [[The_World/Southern_Africa.md\|Southern Africa]]                                        | 6:19 PM - August 06, 2024  |
 | [[The_World/Angola.md\|Angola]]                                                          | 6:17 PM - August 06, 2024  |
 | [[The_World/Fidel_Castro.md\|Fidel Castro]]                                              | 6:15 PM - August 06, 2024  |
-| [[The_World/July_Revolution.md\|July Revolution]]                                        | 8:33 PM - July 16, 2024    |
 <!-- SerializedQuery END -->
 
 ```dataview

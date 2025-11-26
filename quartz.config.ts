@@ -16,13 +16,16 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "jjacobs.me",
-    ignorePatterns: ["private", "templates", ".obsidian","fileClass"],
+    ignorePatterns: [
+      "private", "templates", ".obsidian", "fileClass"
+    ],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
+        // header: "Schibsted Grotesk",
+        header: "DM Sans",
         body: "Source Sans Pro",
         code: "IBM Plex Mono",
       },
@@ -68,7 +71,10 @@ const config: QuartzConfig = {
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
-      Plugin.CrawlLinks({ openLinksInNewTab: true }),
+      Plugin.CrawlLinks({
+        openLinksInNewTab: true,
+        markdownLinkResolution: "shortest"
+      }),
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
     ],

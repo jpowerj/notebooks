@@ -1,0 +1,50 @@
+---
+title: "Representing and Intervening: Introductory Topics in the Philosophy of Natural Science"
+tags:
+  - Book
+  - Philosophy_of_Science
+citekey: hacking_representing_1983
+author: "[[Ian_Hacking]]"
+---
+
+> [!Citation]
+> Hacking, Ian. _Representing and Intervening: Introductory Topics in the Philosophy of Natural Science_. Cambridge University Press, 1983. [Google Books Link](https://www.google.com/books?id=4hIQ5fGf-_oC)
+
+## Excerpts
+
+| Page | Quote                                                                                                                                                                                                                                                                                                                                                         | Notes                    |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
+| 26   | \[In art\] "A realist is one who deliberately declines to select his subjects from the beautiful or harmonious"                                                                                                                                                                                                                                               |                          |
+| 28   | Citation: W. Newton-Smith, "The Underdetermination of Theory by Data". *Proceedings of the Aristotelian Society*. 1978                                                                                                                                                                                                                                        |                          |
+| 35   | "Every day we read this sort of thing" \[statement from OBGYN association warning about causality\]: "we should not assume that this means there is a definite cause-and-effect relationship until we better understand the [[mechanism]] that creates this condition."                                                                                       |                          |
+| 36   | "Perhaps the clearest proof of such understanding \[of a causal effect\] is that we can actually use events of one kind to produce events of another kind."                                                                                                                                                                                                   |                          |
+| 53   | [[CS_Pierce]]: Explaining = "feeling the key turn in the lock" \[!\] "Feeling the key turn in the lock makes you feel that you have an exciting new idea to work with. It is not a ground for the truth of the idea: that comes later."                                                                                                                       |                          |
+| 76   | "The un-Fregeian idea that we can grasp the sense of theoretical terms only by considering their place in a network of theoretical propositions."                                                                                                                                                                                                             |                          |
+| 91   | Citation: John Dupré (1981). "Natural Kinds and Biological Taxa". *The Philosophical Review*.                                                                                                                                                                                                                                                                 |                          |
+| 114  | [[Lakatos]] on Ancient Greek to pre-17th-century modes: "mathematical proof was the model of true science \[...\] Anything less than complete certainty was defective. Science was by definition infallible"                                                                                                                                                  |                          |
+| 114  | "The greater the variety and quantity of observations that confirm a conclusion, the more probable it is. We may no longer have certainty, but we have high probability."                                                                                                                                                                                     |                          |
+| 115  | [[Lakatos]] on "Popperians" ([[Popper_Karl]]): "The falsificationist, says [[Lakatos]], demands not that the theory should be consistent with the evidence, but that it should actually outpace it." \[!\]                                                                                                                                                    |                          |
+| 121  | [[Feyerabend_Paul]]: [[Lakatos]]' "most colorful critic"                                                                                                                                                                                                                                                                                                      |                          |
+| 161  | [[Ampère]] (1775-1836) "much admired [[Kant]], and insisted that theoretical science was a study of [[noumena]] behind the phenomena"                                                                                                                                                                                                                         | [[Hidden Markov Models]] |
+| 162  | [[James Clerk Maxwell]] on [[Ampère]]: "he \[Ampère\] discovered the law by some process he has not shewn [sic] us, and that when he had afterwards built up a perfect demonstration he removed all traces of the scaffolding by which he had raised it." \[!\]                                                                                               | [[Reproducibility]]      |
+| 173  | "[[Claude Bernand]]'s 1865 *Introduction to the Study of Experimental Medicine* is the classic attempt to distinguish the concepts of [[experiment]] and [[observation]]."                                                                                                                                                                                    |                          |
+| 262  | "Experimental work provides the strongest evidence for scientific realism. This is not because we test hypotheses about entities. It is because entities that in principle cannot be 'observed' are regularly manipulated to produce a new phenomena and to investigate other aspects of nature. They are tools, instruments not for thinking but for doing." |                          |
+| 274  | "To attempt to argue for scientific realism at the level of theory, testing, explanation, predictive success, convergence of theories, and so forth is to be locked into a world of representations"                                                                                                                                                          |                          |
+|      |                                                                                                                                                                                                                                                                                                                                                               |                          |
+
+## Zotero Metadata
+
+> [!Abstract]
+>
+> This 1983 book is a lively and clearly written introduction to the philosophy of natural science, organized around the central theme of scientific realism. It has two parts. 'Representing' deals with the different philosophical accounts of scientific objectivity and the reality of scientific entities. The views of Kuhn, Feyerabend, Lakatos, Putnam, van Fraassen, and others, are all considered. 'Intervening' presents the first sustained treatment of experimental science for many years and uses it to give a new direction to debates about realism. Hacking illustrates how experimentation often has a life independent of theory. He argues that although the philosophical problems of scientific realism can not be resolved when put in terms of theory alone, a sound philosophy of experiment provides compelling grounds for a realistic attitude. A great many scientific examples are described in both parts of the book, which also includes lucid expositions of recent high energy physics and a remarkable chapter on the microscope in cell biology.
+>
+
+>[!Metadata]
+> **FirstAuthor**:: Hacking, Ian  
+> **Title**:: Representing and Intervening: Introductory Topics in the Philosophy of Natural Science
+> ShortTitle:: Representing and Intervening
+> **Year**:: 1983   
+> **Citekey**:: hacking_representing_1983  
+> **itemType**:: book  
+> **Publisher**:: Cambridge University Press  
+> **ISBN**:: 978-0-521-28246-8
