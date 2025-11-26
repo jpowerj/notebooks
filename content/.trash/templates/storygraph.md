@@ -1,1 +1,0 @@
-https://app.thestorygraph.com/profile/jpowerj
