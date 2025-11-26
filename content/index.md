@@ -1,9 +1,9 @@
 ---
-{"publish":true,"title":"Welcome to Jeff's Second Brain","created":"2025-11-26T04:16:25.461-05:00","modified":"2025-11-26T04:23:06.695-05:00","published":"2025-11-26T04:23:06.695-05:00","cssclasses":""}
+{"publish":true,"title":"Welcome to Jeff's Second Brain","created":"2025-11-26T04:16:25.461-05:00","modified":"2025-11-26T04:23:29.400-05:00","published":"2025-11-26T04:23:29.400-05:00","cssclasses":""}
 ---
 
 
-> [!faq]+ What Is This?
+> [!faq]+  What Is This?
 >  
 > ## Second Brain
 >
