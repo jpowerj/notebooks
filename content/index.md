@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Welcome to Jeff's Second Brain","created":"2025-11-26T03:10:55.879-05:00","modified":"2025-11-26T03:12:51.893-05:00","published":"2025-11-26T03:12:51.893-05:00","cssclasses":""}
+{"publish":true,"title":"Welcome to Jeff's Second Brain","created":"2025-11-26T03:10:55.879-05:00","modified":"2025-11-26T03:15:53.419-05:00","published":"2025-11-26T03:15:53.419-05:00","cssclasses":""}
 ---
 
 
@@ -29,74 +29,9 @@ I'm... still figuring out how in-text citations like [[Text_Notes/@wood_chechnya
 > 
 
 ## Notebook Index
-<!-- QueryToSerialize: TABLE WITHOUT ID link(file.name, title) AS "Page", file.mtime AS "Last Updated" FROM "" WHERE index != "false" AND file.folder != "fileClass" SORT file.mtime DESC -->
-<!-- SerializedQuery: TABLE WITHOUT ID link(file.name, title) AS "Page", file.mtime AS "Last Updated" FROM "" WHERE index != "false" AND file.folder != "fileClass" SORT file.mtime DESC -->
-
-| Page                                                                                     | Last Updated               |
-| ---------------------------------------------------------------------------------------- | -------------------------- |
-| [[The_World/July_Revolution\|July Revolution]]                                        | 12:39 AM - August 22, 2024 |
-| [[Math/Set\|Set]]                                                                     | 12:38 AM - August 22, 2024 |
-| [[Math/Gödel's_Incompleteness_Theorem\|Gödel's Incompleteness Theorem]]               | 12:37 AM - August 22, 2024 |
-| [[Math/Object-Oriented_Programming\|Object-Oriented Programming]]                     | 12:36 AM - August 22, 2024 |
-| [[Misc/Triple_quotes\|Triple Quotes]]                                                 | 12:33 AM - August 22, 2024 |
-| [[Art_Things/Songs/CunninLynguists-Nothing_to_Give\|CunninLynguists-Nothing_to_Give]] | 9:22 PM - August 18, 2024  |
-| [[Art_Things/Songs/CunninLynguists-Brain_Cell\|Brain Cell]]                           | 9:15 PM - August 18, 2024  |
-| [[Art_Things/Artists/CunninLynguists\|CunninLynguists]]                               | 9:02 PM - August 18, 2024  |
-| [[Math/Group\|Group]]                                                                 | 12:44 AM - August 12, 2024 |
-| [[Math/Galois_Theory\|Galois Theory]]                                                 | 12:34 AM - August 12, 2024 |
-| [[Growth/Self-Help Summer 2024\|Self-Help Summer 2024]]                               | 12:12 AM - August 12, 2024 |
-| [[Math/Insolubility_of_the_Quintic\|Insolubility of the Quintic]]                     | 10:43 PM - August 09, 2024 |
-| [[The_World/Russian_Imperialism\|Russian Imperialism]]                                | 10:42 PM - August 09, 2024 |
-| [[Art_Things/Chipmunk_Soul\|Chipmunk_Soul]]                                           | 10:42 PM - August 09, 2024 |
-| [[Art_Things/Songs/Camron-Oh_Boy\|Camron-Oh_Boy]]                                     | 10:39 PM - August 09, 2024 |
-| [[Art_Things/Artists/Cam'ron\|Cam'ron]]                                               | 10:35 PM - August 09, 2024 |
-| [[Art_Things/Artists/Teddy_Faley\|Teddy Faley]]                                       | 10:31 PM - August 09, 2024 |
-| [[Art_Things/Artists/NENE\|NENE]]                                                     | 10:30 PM - August 09, 2024 |
-| [[Art_Things/Songs/NENE-アツい\|NENE-アツい]]                                               | 10:23 PM - August 09, 2024 |
-| [[Day_to_Day/2024-08-09\|2024-08-09]]                                                 | 10:15 PM - August 09, 2024 |
-| [[Math/Principia_Mathematica\|Principia Mathematica]]                                 | 6:42 PM - August 06, 2024  |
-| [[Math/Evariste_Galois\|Evariste Galois]]                                             | 6:40 PM - August 06, 2024  |
-| [[Math/Alfred_North_Whitehead\|Alfred North Whitehead]]                               | 6:40 PM - August 06, 2024  |
-| [[Math/Bertrand_Russell\|Bertrand Russell]]                                           | 6:40 PM - August 06, 2024  |
-| [[The_World/Caribbean\|Caribbean]]                                                    | 6:40 PM - August 06, 2024  |
-| [[The_World/Chechnya\|Chechnya]]                                                      | 6:39 PM - August 06, 2024  |
-| [[The_World/July_Monarchy\|July Monarchy]]                                            | 6:35 PM - August 06, 2024  |
-| [[The_World/Terrorism\|"""Terrorism"""]]                                              | 6:34 PM - August 06, 2024  |
-| [[The_World/Soviet_Union\|Soviet Union]]                                              | 6:34 PM - August 06, 2024  |
-| [[The_World/Second_Indochina_War\|Second Indochina War]]                              | 6:34 PM - August 06, 2024  |
-| [[The_World/Russell-Sartre Tribunal\|Russell-Sartre Tribunal]]                        | 6:33 PM - August 06, 2024  |
-| [[The_World/Rhodesian_UDI\|Rhodesian UDI (Unilateral Declaration of Independence)]]   | 6:33 PM - August 06, 2024  |
-| [[The_World/Quantification\|Quantification]]                                          | 6:33 PM - August 06, 2024  |
-| [[The_World/Population_Transfers\|Population Transfers]]                              | 6:33 PM - August 06, 2024  |
-| [[The_World/Occupied_Namibia\|Occupied Namibia]]                                      | 6:33 PM - August 06, 2024  |
-| [[The_World/Lenin\|Lenin]]                                                            | 6:33 PM - August 06, 2024  |
-| [[The_World/Lao_Peoples_Democratic_Republic\|Lao People's Democratic Republic]]       | 6:32 PM - August 06, 2024  |
-| [[The_World/First_Chechen_War\|First Chechen War]]                                    | 6:32 PM - August 06, 2024  |
-| [[The_World/Decolonization\|Decolonization]]                                          | 6:32 PM - August 06, 2024  |
-| [[The_World/Zimbabwe\|Zimbabwe]]                                                      | 6:31 PM - August 06, 2024  |
-| [[The_World/Apartheid_Rhodesia\|Apartheid Rhodesia]]                                  | 6:31 PM - August 06, 2024  |
-| [[The_World/Cold_War\|Cold War]]                                                      | 6:31 PM - August 06, 2024  |
-| [[The_World/France\|France]]                                                          | 6:31 PM - August 06, 2024  |
-| [[The_World/French_Revolution\|French Revolution]]                                    | 6:30 PM - August 06, 2024  |
-| [[The_World/Ian_Smith\|Ian Smith]]                                                    | 6:30 PM - August 06, 2024  |
-| [[The_World/ZAPU\|Zimbabwe African People's Union]]                                   | 6:30 PM - August 06, 2024  |
-| [[The_World/ZANU\|Zimbabwe African National Union]]                                   | 6:30 PM - August 06, 2024  |
-| [[The_World/SWAPO\|SWAPO (South West African People's Organization)]]                 | 6:30 PM - August 06, 2024  |
-| [[The_World/Cuba\|Cuba]]                                                              | 6:29 PM - August 06, 2024  |
-| [[The_World/Apartheid_South_Africa\|Apartheid South Africa]]                          | 6:29 PM - August 06, 2024  |
-| [[The_World/Namibia\|Occupied Namibia]]                                               | 6:25 PM - August 06, 2024  |
-| [[The_World/Ukraine\|Ukraine]]                                                        | 6:25 PM - August 06, 2024  |
-| [[The_World/Russian_Federation\|Russian Federation]]                                  | 6:24 PM - August 06, 2024  |
-| [[The_World/Ingushetia\|Ingushetia]]                                                  | 6:23 PM - August 06, 2024  |
-| [[The_World/Anti-Apartheid_Struggle\|Anti-Apartheid Struggle]]                        | 6:19 PM - August 06, 2024  |
-| [[The_World/Southern_Africa\|Southern Africa]]                                        | 6:19 PM - August 06, 2024  |
-| [[The_World/Angola\|Angola]]                                                          | 6:17 PM - August 06, 2024  |
-| [[The_World/Fidel_Castro\|Fidel Castro]]                                              | 6:15 PM - August 06, 2024  |
-<!-- SerializedQuery END -->
 
 | Page                                                                                     | Last Updated                |
 | ---------------------------------------------------------------------------------------- | --------------------------- |
-| [[templates/Zotero_LitNote\|Zotero_LitNote]]                                          | 3:10 AM - November 26, 2025 |
 | [[The_World/ZANU\|ZANU]]                                                              | 3:10 AM - November 26, 2025 |
 | [[The_World/ZAPU\|ZAPU]]                                                              | 3:10 AM - November 26, 2025 |
 | [[The_World/Zimbabwe\|Zimbabwe]]                                                      | 3:10 AM - November 26, 2025 |
@@ -188,7 +123,6 @@ I'm... still figuring out how in-text citations like [[Text_Notes/@wood_chechnya
 | [[The_World/Flags/What Do All The Flags Mean?\|What Do All The Flags Mean?]]          | 9:58 PM - January 04, 2025  |
 | [[The_World/El_Salvador\|El_Salvador]]                                                | 4:57 AM - December 23, 2024 |
 | [[Day_to_Day/2024-08-09\|2024-08-09]]                                                 | 10:15 PM - August 09, 2024  |
-
 
 
 ### Current Categories:
