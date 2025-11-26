@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Laos","title":"Lao People's Democratic Republic","created":"2024-08-06T18:32:38.822-04:00","modified":"2024-08-06T18:32:38.822-04:00","published":"2024-08-06T18:32:38.822-04:00","tags":["Country"],"cssclasses":""}
+{"publish":true,"aliases":"Laos","title":"Lao People's Democratic Republic","created":"2025-11-26T03:10:55.869-05:00","modified":"2025-11-26T03:10:55.869-05:00","published":"2025-11-26T03:10:55.869-05:00","tags":["Country"],"cssclasses":""}
 ---
 
 I am... really obsessed with learning about Laos, for the simple reason that:

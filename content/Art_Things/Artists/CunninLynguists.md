@@ -1,4 +1,4 @@
 ---
-{"publish":true,"title":"CunninLynguists","created":"2024-08-18T21:02:36.126-04:00","modified":"2024-08-18T21:02:36.126-04:00","published":"2024-08-18T21:02:36.126-04:00","tags":["Artist"],"cssclasses":""}
+{"publish":true,"title":"CunninLynguists","created":"2025-11-26T03:10:55.851-05:00","modified":"2025-11-26T03:10:55.851-05:00","published":"2025-11-26T03:10:55.851-05:00","tags":["Artist"],"cssclasses":""}
 ---
 

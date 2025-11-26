@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Insolubility of the Quintic","title":"Insolubility of the Quintic","created":"2024-08-09T22:43:04.934-04:00","modified":"2024-08-09T22:43:04.934-04:00","published":"2024-08-09T22:43:04.934-04:00","tags":["Concept"],"cssclasses":""}
+{"publish":true,"aliases":"Insolubility of the Quintic","title":"Insolubility of the Quintic","created":"2025-11-26T03:10:55.856-05:00","modified":"2025-11-26T03:10:55.856-05:00","published":"2025-11-26T03:10:55.856-05:00","tags":["Concept"],"cssclasses":""}
 ---
 
 At some point in studying Algebra, we learn about the Quadratic Equation: given a polynomial equation of the form

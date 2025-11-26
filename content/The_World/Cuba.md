@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Cuba","created":"2024-08-06T18:29:13.051-04:00","modified":"2024-08-06T18:29:13.051-04:00","published":"2024-08-06T18:29:13.051-04:00","tags":["Country"],"cssclasses":""}
+{"publish":true,"title":"Cuba","created":"2025-11-26T03:10:55.863-05:00","modified":"2025-11-26T03:10:55.864-05:00","published":"2025-11-26T03:10:55.864-05:00","tags":["Country"],"cssclasses":""}
 ---
 
 Country in the [[The_World/Caribbean]], led by [[The_World/Fidel_Castro\|Fidel Castro]] from 1959 to 2008.

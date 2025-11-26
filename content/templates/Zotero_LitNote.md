@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"{{shortTitle}}","created":"2024-12-23T04:31:52.694-05:00","modified":"2024-12-26T23:36:34.288-05:00","published":"2024-12-26T23:36:34.288-05:00","tags":["Book"],"cssclasses":""}
+{"publish":true,"title":"{{shortTitle}}","created":"2025-11-26T03:10:55.880-05:00","modified":"2025-11-26T03:10:55.880-05:00","published":"2025-11-26T03:10:55.880-05:00","tags":["Book"],"cssclasses":""}
 ---
 
 

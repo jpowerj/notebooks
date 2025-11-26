@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Imperialism at Bay, 1941-1945","created":"2024-12-26T23:48:49.194-05:00","modified":"2024-12-26T23:54:53.098-05:00","published":"2024-12-26T23:54:53.098-05:00","tags":["Book"],"cssclasses":""}
+{"publish":true,"title":"Imperialism at Bay, 1941-1945","created":"2025-11-26T03:10:55.859-05:00","modified":"2025-11-26T03:10:55.859-05:00","published":"2025-11-26T03:10:55.859-05:00","tags":["Book"],"cssclasses":""}
 ---
 
 

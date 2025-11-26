@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"White Supremacy Confronted","created":"2025-03-21T20:31:41.474-04:00","modified":"2025-03-21T20:39:46.120-04:00","published":"2025-03-21T20:39:46.120-04:00","tags":["Book"],"cssclasses":""}
+{"publish":true,"title":"White Supremacy Confronted","created":"2025-11-26T03:10:55.858-05:00","modified":"2025-11-26T03:10:55.859-05:00","published":"2025-11-26T03:10:55.859-05:00","tags":["Book"],"cssclasses":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Quantification","created":"2024-08-06T18:33:30.754-04:00","modified":"2024-08-06T18:33:30.754-04:00","published":"2024-08-06T18:33:30.754-04:00","tags":["Concept"],"cssclasses":""}
+{"publish":true,"title":"Quantification","created":"2025-11-26T03:10:55.872-05:00","modified":"2025-11-26T03:10:55.872-05:00","published":"2025-11-26T03:10:55.872-05:00","tags":["Concept"],"cssclasses":""}
 ---
 
 ## References

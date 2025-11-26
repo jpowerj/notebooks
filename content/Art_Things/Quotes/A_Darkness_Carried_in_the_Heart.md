@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"A Darkness Carried in the Heart...","created":"2024-08-22T00:35:15.651-04:00","modified":"2024-08-22T00:35:15.651-04:00","published":"2024-08-22T00:35:15.651-04:00","tags":["#Quote"],"cssclasses":""}
+{"publish":true,"title":"A Darkness Carried in the Heart...","created":"2025-11-26T03:10:55.853-05:00","modified":"2025-11-26T03:10:55.853-05:00","published":"2025-11-26T03:10:55.853-05:00","tags":["#Quote"],"cssclasses":""}
 ---
 
 # A darkness carried in the heart...

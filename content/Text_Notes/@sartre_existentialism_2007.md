@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Existentialism is a Humanism","created":"2025-01-21T10:30:22.152-05:00","modified":"2025-01-21T10:33:04.520-05:00","published":"2025-01-21T10:33:04.520-05:00","tags":["Book"],"cssclasses":""}
+{"publish":true,"title":"Existentialism is a Humanism","created":"2025-11-26T03:10:55.860-05:00","modified":"2025-11-26T03:10:55.860-05:00","published":"2025-11-26T03:10:55.860-05:00","tags":["Book"],"cssclasses":""}
 ---
 
 

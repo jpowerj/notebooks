@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Set","created":"2024-08-22T00:38:06.630-04:00","modified":"2024-08-22T00:38:06.630-04:00","published":"2024-08-22T00:38:06.630-04:00","tags":["Concept/Math/Axiomatic_Set_Theory","Concept"],"cssclasses":""}
+{"publish":true,"title":"Set","created":"2025-11-26T03:10:55.856-05:00","modified":"2025-11-26T03:10:55.857-05:00","published":"2025-11-26T03:10:55.857-05:00","tags":["Concept/Math/Axiomatic_Set_Theory","Concept"],"cssclasses":""}
 ---
 
 For a bunch of... initially strange but ultimately interesting reasons, mathematicians and philosophers in the late 18th and early 19th century would sometimes get really hung up on how exactly to define a **Set**, as a mathematical object.

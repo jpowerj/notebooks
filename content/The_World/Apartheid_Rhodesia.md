@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Rhodesia Apartheid Rhodesia","title":"Apartheid Rhodesia","created":"2024-08-06T18:31:20.999-04:00","modified":"2024-08-06T18:31:20.999-04:00","published":"2024-08-06T18:31:20.999-04:00","tags":["Country"],"cssclasses":""}
+{"publish":true,"aliases":"Rhodesia Apartheid Rhodesia","title":"Apartheid Rhodesia","created":"2025-11-26T03:10:55.862-05:00","modified":"2025-11-26T03:10:55.862-05:00","published":"2025-11-26T03:10:55.862-05:00","tags":["Country"],"cssclasses":""}
 ---
 
 Apartheid state ruled by a tiny white minority (even smaller than the white minority in [[The_World/Apartheid_South_Africa]]), eventually overthrown by guerrilla fighters from [[The_World/ZANU]] and [[The_World/ZAPU]] and renamed [[The_World/Zimbabwe]].

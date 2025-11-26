@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"A Treatise on Social Theory, Volume 1: The Methodology of Social Theory","created":"2025-11-26T02:11:05.769-05:00","modified":"2025-11-26T02:18:54.209-05:00","published":"2025-11-26T02:18:54.209-05:00","tags":["Book"],"cssclasses":""}
+{"publish":true,"title":"A Treatise on Social Theory, Volume 1: The Methodology of Social Theory","created":"2025-11-26T03:10:55.859-05:00","modified":"2025-11-26T03:10:55.860-05:00","published":"2025-11-26T03:10:55.860-05:00","tags":["Book"],"cssclasses":""}
 ---
 
 

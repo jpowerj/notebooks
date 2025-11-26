@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Representing and Intervening: Introductory Topics in the Philosophy of Natural Science","created":"2025-11-26T02:19:37.346-05:00","modified":"2025-11-26T02:31:27.147-05:00","published":"2025-11-26T02:31:27.147-05:00","tags":["Book","Philosophy_of_Science"],"cssclasses":""}
+{"publish":true,"title":"Representing and Intervening: Introductory Topics in the Philosophy of Natural Science","created":"2025-11-26T03:10:55.858-05:00","modified":"2025-11-26T03:10:55.858-05:00","published":"2025-11-26T03:10:55.858-05:00","tags":["Book","Philosophy_of_Science"],"cssclasses":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2024-08-09T22:23:34.888-04:00","modified":"2024-08-09T22:23:34.888-04:00","published":"2024-08-09T22:23:34.888-04:00","tags":["Song"],"cssclasses":""}
+{"publish":true,"created":"2025-11-26T03:10:55.854-05:00","modified":"2025-11-26T03:10:55.854-05:00","published":"2025-11-26T03:10:55.854-05:00","tags":["Song"],"cssclasses":""}
 ---
 
 I can't stop listening 😱 it's like, 2004 Kanye [[Art_Things/Chipmunk_Soul]], but then fast-forwarded 20 years so that now there's a bunch of [[808]]s on it and it's way more staccato[^1], and it has some sort of fancy gated reverb type thing[^2].

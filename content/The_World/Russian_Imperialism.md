@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Russian Imperialism","title":"Russian Imperialism","created":"2024-08-09T22:42:48.810-04:00","modified":"2024-08-09T22:42:48.810-04:00","published":"2024-08-09T22:42:48.810-04:00","tags":["Russia","Soviet_Union","Concept"],"cssclasses":""}
+{"publish":true,"aliases":"Russian Imperialism","title":"Russian Imperialism","created":"2025-11-26T03:10:55.873-05:00","modified":"2025-11-26T03:10:55.873-05:00","published":"2025-11-26T03:10:55.873-05:00","tags":["Russia","Soviet_Union","Concept"],"cssclasses":""}
 ---
 
 If you read a bunch of esoteric books about the [[The_World/Cold_War\|Cold War]] twenty years after it ended for no reason, like I do, you'll find a bunch of hand-wringing from US policymakers about "Soviet imperialism", a notion which spreads by the 1970s into the Non-Aligned Movement (especially after the US-China rapprochement). When I first started digging into this, I thought of [[The_World/Fidel_Castro\|Fidel Castro]]'s very apt point during a 1973 speech in Algeria:

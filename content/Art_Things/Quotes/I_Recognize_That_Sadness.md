@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"I Recognize That Sadness...","created":"2024-08-22T00:35:20.426-04:00","modified":"2024-08-22T00:35:20.426-04:00","published":"2024-08-22T00:35:20.426-04:00","tags":["#Quote"],"cssclasses":""}
+{"publish":true,"title":"I Recognize That Sadness...","created":"2025-11-26T03:10:55.853-05:00","modified":"2025-11-26T03:10:55.853-05:00","published":"2025-11-26T03:10:55.853-05:00","tags":["#Quote"],"cssclasses":""}
 ---
 
 # I recognize that sadness...

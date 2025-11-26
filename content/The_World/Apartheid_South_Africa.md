@@ -1,4 +1,4 @@
 ---
-{"publish":true,"aliases":"Apartheid South Africa","title":"Apartheid South Africa","created":"2024-08-06T18:29:04.588-04:00","modified":"2024-08-06T18:29:04.588-04:00","published":"2024-08-06T18:29:04.588-04:00","tags":["Country"],"cssclasses":""}
+{"publish":true,"aliases":"Apartheid South Africa","title":"Apartheid South Africa","created":"2025-11-26T03:10:55.862-05:00","modified":"2025-11-26T03:10:55.862-05:00","published":"2025-11-26T03:10:55.862-05:00","tags":["Country"],"cssclasses":""}
 ---
 

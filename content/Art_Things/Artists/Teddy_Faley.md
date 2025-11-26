@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Teddy Faley","created":"2024-08-09T22:31:32.350-04:00","modified":"2024-08-09T22:31:32.350-04:00","published":"2024-08-09T22:31:32.350-04:00","tags":["Person"],"cssclasses":""}
+{"publish":true,"title":"Teddy Faley","created":"2025-11-26T03:10:55.852-05:00","modified":"2025-11-26T03:10:55.852-05:00","published":"2025-11-26T03:10:55.852-05:00","tags":["Person"],"cssclasses":""}
 ---
 
 

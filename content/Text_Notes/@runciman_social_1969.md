@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Social Science and Political Theory","created":"2025-11-26T02:01:05.072-05:00","modified":"2025-11-26T02:05:28.267-05:00","published":"2025-11-26T02:05:28.267-05:00","tags":["Book"],"cssclasses":""}
+{"publish":true,"title":"Social Science and Political Theory","created":"2025-11-26T03:10:55.859-05:00","modified":"2025-11-26T03:10:55.859-05:00","published":"2025-11-26T03:10:55.859-05:00","tags":["Book"],"cssclasses":""}
 ---
 
 

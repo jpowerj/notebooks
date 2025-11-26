@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Capitalist Realism","created":"2025-11-15T21:13:58.755-05:00","modified":"2025-11-15T21:16:55.202-05:00","published":"2025-11-15T21:16:55.202-05:00","tags":["Book"],"cssclasses":""}
+{"publish":true,"title":"Capitalist Realism","created":"2025-11-26T03:10:55.857-05:00","modified":"2025-11-26T03:10:55.857-05:00","published":"2025-11-26T03:10:55.857-05:00","tags":["Book"],"cssclasses":""}
 ---
 
 
