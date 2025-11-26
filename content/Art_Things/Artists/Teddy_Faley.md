@@ -1,11 +1,7 @@
 ---
-title: Teddy Faley
-tags:
-  - Person
-last_name: Faley
-first_name: Teddy
-category: [Rapper]
+{"publish":true,"title":"Teddy Faley","created":"2025-11-26T03:10:55.852-05:00","modified":"2025-11-26T03:10:55.852-05:00","published":"2025-11-26T03:10:55.852-05:00","tags":["Person"],"cssclasses":""}
 ---
+
 
 ## Teddy Faley
 
@@ -16,7 +12,7 @@ category: [Rapper]
 > #Lyrics
 > [author:: Teddy Faley]
 
-```dataview
-TABLE author
-FROM #Lyrics
-```
+| Page                                               | author      |
+| -------------------------------------------------- | ----------- |
+| [[Art_Things/Artists/Teddy_Faley\|Teddy_Faley]] | Teddy Faley |
+

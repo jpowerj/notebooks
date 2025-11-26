@@ -1,6 +1,5 @@
 ---
-title: Welcome to Jeff's Second Brain
-index: "false"
+{"publish":true,"title":"Welcome to Jeff's Second Brain","created":"2025-11-26T03:10:55.879-05:00","modified":"2025-11-26T03:19:10.211-05:00","published":"2025-11-26T03:19:10.211-05:00","cssclasses":""}
 ---
 > [!faq]- What Is This?
 >  
