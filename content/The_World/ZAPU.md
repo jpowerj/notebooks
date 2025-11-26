@@ -1,4 +1,9 @@
 ---
-{"publish":true,"aliases":"ZAPU","title":"Zimbabwe African People's Union","created":"2025-11-26T03:10:55.875-05:00","modified":"2025-11-26T03:10:55.875-05:00","published":"2025-11-26T03:10:55.875-05:00","tags":["Organization"],"cssclasses":""}
+title: Zimbabwe African People's Union
+wiki_link: https://en.wikipedia.org/wiki/Zimbabwe_African_People%27s_Union
+aliases:
+  - ZAPU
+category: Organization
+tags:
+  - Organization
 ---
-

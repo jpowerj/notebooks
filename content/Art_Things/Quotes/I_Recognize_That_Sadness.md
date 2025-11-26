@@ -1,13 +1,15 @@
 ---
-{"publish":true,"title":"I Recognize That Sadness...","created":"2025-11-26T03:10:55.853-05:00","modified":"2025-11-26T03:10:55.853-05:00","published":"2025-11-26T03:10:55.853-05:00","tags":["#Quote"],"cssclasses":""}
+title: I Recognize That Sadness...
+tags:
+  - "#Quote"
+index: "false"
 ---
-
 # I recognize that sadness...
 
 > *I recognize that sadness, I'm seeing in your eyes*
 > *You wonder if it's love you feel, or just a comfortable compromise*
 
-From *[[Art_Things/Songs/CunninLynguists-Brain_Cell\|Brain Cell by CunninLynguists]]*, 4 minutes, 10 seconds in:
+From *[[CunninLynguists-Brain_Cell|Brain Cell by CunninLynguists]]*, 4 minutes, 10 seconds in:
 
 ![](https://www.youtube.com/watch?v=HrqDQgzkNus)
 

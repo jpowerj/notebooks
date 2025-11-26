@@ -1,7 +1,11 @@
 ---
-{"publish":true,"created":"2025-11-26T03:10:55.853-05:00","modified":"2025-11-26T03:10:55.853-05:00","published":"2025-11-26T03:10:55.853-05:00","tags":["Song"],"cssclasses":""}
+tags:
+  - Song
+Artists: "[[Cam'ron]]"
+Genre: 
+Link: https://www.youtube.com/watch?v=DRaG53x3UrY
+Created:
 ---
-
 
 
 ![](https://www.youtube.com/watch?v=DRaG53x3UrY)

@@ -1,4 +1,12 @@
 ---
-{"publish":true,"aliases":"Principia Mathematica","title":"Principia Mathematica","created":"2025-11-26T03:10:55.856-05:00","modified":"2025-11-26T03:10:55.856-05:00","published":"2025-11-26T03:10:55.856-05:00","tags":["Axiomatic_Set_Theory","Book"],"cssclasses":""}
+title: Principia Mathematica
+aliases:
+  - Principia Mathematica
+tags:
+  - Axiomatic_Set_Theory
+  - Book
+category: Book
+authors:
+  - "[[Bertrand_Russell|Bertrand Russell]]"
+  - "[[Alfred_North_Whitehead|Alfred North Whitehead]]"
 ---
-
