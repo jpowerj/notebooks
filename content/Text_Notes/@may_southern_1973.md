@@ -1,10 +1,7 @@
 ---
-title: The Southern Dream of a Caribbean Empire
-tags:
-  - Book
-citekey: may_southern_1973
-author: "[[Robert_E._May]]"
+{"publish":true,"title":"The Southern Dream of a Caribbean Empire","created":"2025-11-26T03:10:55.859-05:00","modified":"2025-11-26T03:10:55.859-05:00","published":"2025-11-26T03:10:55.859-05:00","tags":["Book"],"cssclasses":""}
 ---
+
 
 > [!Citation]
 > May, Robert E. _The Southern Dream of a Caribbean Empire, 1854-1861_. Louisiana State University Press, 1973. [Google Books Link](https://www.google.com/books?id=DFZsAAAAMAAJ)

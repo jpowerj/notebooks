@@ -1,11 +1,7 @@
 ---
-title: "Representing and Intervening: Introductory Topics in the Philosophy of Natural Science"
-tags:
-  - Book
-  - Philosophy_of_Science
-citekey: hacking_representing_1983
-author: "[[Ian_Hacking]]"
+{"publish":true,"title":"Representing and Intervening: Introductory Topics in the Philosophy of Natural Science","created":"2025-11-26T03:10:55.858-05:00","modified":"2025-11-26T03:10:55.858-05:00","published":"2025-11-26T03:10:55.858-05:00","tags":["Book","Philosophy_of_Science"],"cssclasses":""}
 ---
+
 
 > [!Citation]
 > Hacking, Ian. _Representing and Intervening: Introductory Topics in the Philosophy of Natural Science_. Cambridge University Press, 1983. [Google Books Link](https://www.google.com/books?id=4hIQ5fGf-_oC)

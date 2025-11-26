@@ -1,10 +1,7 @@
 ---
-title: "Imperialism at Bay, 1941-1945"
-tags:
-  - Book
-citekey: "louis_imperialism_1977"
-author: '[[William_Roger_Louis]]'
+{"publish":true,"title":"Imperialism at Bay, 1941-1945","created":"2025-11-26T03:10:55.859-05:00","modified":"2025-11-26T03:10:55.859-05:00","published":"2025-11-26T03:10:55.859-05:00","tags":["Book"],"cssclasses":""}
 ---
+
 
 > [!Citation]
 > Louis, William Roger. _Imperialism at Bay, 1941-1945: The United States and the Decolonization of the British Empire_. Clarendon Press, 1977. [Google Books Link](https://www.google.com/books?id=A_mtQgAACAAJ)

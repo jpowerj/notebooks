@@ -1,10 +1,7 @@
 ---
-title: Social Science and Political Theory
-tags:
-  - Book
-citekey: runciman_social_1969
-author: "[[W._G._Runciman]]"
+{"publish":true,"title":"Social Science and Political Theory","created":"2025-11-26T03:10:55.859-05:00","modified":"2025-11-26T03:10:55.859-05:00","published":"2025-11-26T03:10:55.859-05:00","tags":["Book"],"cssclasses":""}
 ---
+
 
 > [!Citation]
 > Runciman, W. G. _Social Science and Political Theory_. CUP Archive, 1969. [Google Books Link](https://www.google.com/books?id=xO43AAAAIAAJ)

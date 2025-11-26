@@ -1,10 +1,7 @@
 ---
-title: "Politics and Vision"
-tags:
-  - Book
-citekey: "wolin_politics_1960"
-author: '[[Sheldon_S._Wolin]]'
+{"publish":true,"title":"Politics and Vision","created":"2025-11-26T03:10:55.861-05:00","modified":"2025-11-26T03:10:55.861-05:00","published":"2025-11-26T03:10:55.861-05:00","tags":["Book"],"cssclasses":""}
 ---
+
 
 > [!Citation]
 > Wolin, Sheldon S. _Politics and Vision: Continuity and Innovation in Western Political Thought - Expanded Edition_. Princeton University Press, 1960. [Google Books Link](https://www.google.com/books?id=-4j8CwAAQBAJ)
