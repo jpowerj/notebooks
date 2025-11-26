@@ -1,10 +1,7 @@
 ---
-title: Existentialism is a Humanism
-tags:
-  - Book
-citekey: sartre_existentialism_2007
-author: "[[Jean-Paul_Sartre]]"
+{"publish":true,"title":"Existentialism is a Humanism","created":"2025-11-26T03:10:55.860-05:00","modified":"2025-11-26T03:10:55.860-05:00","published":"2025-11-26T03:10:55.860-05:00","tags":["Book"],"cssclasses":""}
 ---
+
 
 > [!Citation]
 > Sartre, Jean-Paul. _Existentialism Is a Humanism_. Yale University Press, 2007. [Google Books Link](https://www.google.com/books?id=G-r6DwAAQBAJ)

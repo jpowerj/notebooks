@@ -1,10 +1,7 @@
 ---
-title: "Capitalist Realism"
-tags:
-  - Book
-citekey: "fisher_capitalist_2009"
-author: '[[Mark_Fisher]]'
+{"publish":true,"title":"Capitalist Realism","created":"2025-11-26T03:10:55.857-05:00","modified":"2025-11-26T03:10:55.857-05:00","published":"2025-11-26T03:10:55.857-05:00","tags":["Book"],"cssclasses":""}
 ---
+
 
 > [!Citation]
 > Fisher, Mark. _Capitalist Realism: Is There No Alternative?_ Simon and Schuster, 2009. [Google Books Link](https://www.google.com/books?id=75YnlcDv6ToC)

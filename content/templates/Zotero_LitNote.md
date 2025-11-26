@@ -1,10 +1,7 @@
 ---
-title: "{{shortTitle}}"
-tags:
-  - Book
-citekey: "{{citekey}}"
-author: '[[{{authors | replace(" ","_")}}]]'
+{"publish":true,"title":"{{shortTitle}}","created":"2025-11-26T03:10:55.880-05:00","modified":"2025-11-26T03:10:55.880-05:00","published":"2025-11-26T03:10:55.880-05:00","tags":["Book"],"cssclasses":""}
 ---
+
 
 > [!Citation]
 > {{bibliography}} {%- for attachment in attachments %} [{{attachment.title}}]({{attachment.url}})  {%- endfor %}

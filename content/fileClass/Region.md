@@ -1,27 +1,7 @@
 ---
-limit: 20
-mapWithTag: true
-icon: globe
-tagNames: 
-filesPaths: 
-bookmarksGroups: 
-excludes: 
-extends: 
-savedViews: []
-favoriteView: 
-fieldsOrder:
-  - 1nEZuZ
-version: "2.8"
-fields:
-  - name: countries
-    type: Multi
-    options:
-      sourceType: ValuesFromDVQuery
-      valuesList: {}
-      valuesFromDVQuery: dv.pages("#Country").file.name
-    path: ""
-    id: 1nEZuZ
+{"publish":true,"created":"2025-11-26T03:10:55.879-05:00","modified":"2025-11-26T03:10:55.879-05:00","published":"2025-11-26T03:10:55.879-05:00","cssclasses":""}
 ---
+
 ```dataviewjs
 dv.pages("#Country").file.name
 ```

@@ -1,10 +1,7 @@
 ---
-title: "White Supremacy Confronted"
-tags:
-  - Book
-citekey: "horne_white_2019"
-author: '[[Gerald_Horne]]'
+{"publish":true,"title":"White Supremacy Confronted","created":"2025-11-26T03:10:55.858-05:00","modified":"2025-11-26T03:10:55.859-05:00","published":"2025-11-26T03:10:55.859-05:00","tags":["Book"],"cssclasses":""}
 ---
+
 
 > [!Citation]
 > Horne, Gerald. _White Supremacy Confronted: U.S. Imperialism and Anti-Communism Vs. the Liberation of Southern Africa, from Rhodes to Mandela_. International Publishers, 2019. [Google Books Link](https://www.google.com/books?id=sgkLwwEACAAJ)

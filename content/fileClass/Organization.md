@@ -1,14 +1,3 @@
 ---
-limit: 20
-mapWithTag: true
-icon: users
-tagNames: 
-filesPaths: 
-bookmarksGroups: 
-excludes: 
-extends: 
-savedViews: []
-favoriteView: 
-fieldsOrder: []
-version: "2.0"
+{"publish":true,"created":"2025-11-26T03:10:55.878-05:00","modified":"2025-11-26T03:10:55.878-05:00","published":"2025-11-26T03:10:55.878-05:00","cssclasses":""}
 ---

@@ -1,10 +1,7 @@
 ---
-title: "Africa"
-tags:
-  - Book
-citekey: "reader_africa_1999"
-author: '[[John_Reader]]'
+{"publish":true,"title":"Africa","created":"2025-11-26T03:10:55.859-05:00","modified":"2025-11-26T03:10:55.859-05:00","published":"2025-11-26T03:10:55.859-05:00","tags":["Book"],"cssclasses":""}
 ---
+
 
 > [!Citation]
 > Reader, John. _Africa: A Biography of the Continent_. Knopf Doubleday Publishing Group, 1999. [Google Books Link](https://www.google.com/books?id=Dm_WAAAAMAAJ)
@@ -20,11 +17,11 @@ author: '[[John_Reader]]'
 | 232  | "Inter-ethnic clashes feature prominently in the myths, legends, and stories of the [Niger] delta, for instance, but the message is adaptive. The stories tell of conflict arising from differing priorities of land use, but emphasize the negative consequences of deviating from the established patterns of inter-ethnic behavior, not the glories of victory." |       |
 | 242  | "The strategy [of avoiding tsetse-fly-infested regions] avoided the risk of trypanosomiasis, but also denied humans access to almost two-thirds of the potentially food-producing regions of sub-Saharan Africa."                                                                                                                                                   |       |
 | 333  | Citation: Crosby, Alfred W. 1986. *Ecological Imperialism: The Biological Expansion of Europe, 900-1900*. Cambridge University Press.                                                                                                                                                                                                                               |       |
-| 343  | "Between 1500 and 1535 (the only period for which such records exist) they [[[Portugal]]] shipped 10000 to 12000 slaves across the Bight of Benin from the Slave Coast to the Gold Coast, and sailed onward to [[Portugal]] with rich cargoes of gold [ [[Ghana]] ], ivory [ [[Cote d'Ivoire]] ], and pepper [ [[Liberia]] ]."                                      |       |
+| 343  | "Between 1500 and 1535 (the only period for which such records exist) they [[[The_World/Portugal]]] shipped 10000 to 12000 slaves across the Bight of Benin from the Slave Coast to the Gold Coast, and sailed onward to [[Portugal]] with rich cargoes of gold [ [[The_World/Ghana]] ], ivory [ [[The_World/Cote d'Ivoire]] ], and pepper [ [[The_World/Liberia]] ]."                                      |       |
 | 456  | "[Khoisan rebellion leaders] They also asked, whether, if they were to come to Holland, they would be permitted to act in a similar manner[!]"                                                                                                                                                                                                                      |       |
-| 479  | "Refugees fleeing [Portuguese slavers] south-westwards gathered in the mountains of what is now [[Lesotho]]"                                                                                                                                                                                                                                                        |       |
-| 479  | "Sobhuza's proto-Swazi likewise retreated to the mountains and founded a nation" [[Eswatini]]                                                                                                                                                                                                                                                                       |       |
-| 584  | "Seizing on misinterpretations arising from differences in the [[Amharic]] and [[Italian]] texts of the [1885] treaty, [[Italy]] picked a quarrel and self-righteously invaded northern [[Ethiopia]] in 1890."                                                                                                                                                      |       |
+| 479  | "Refugees fleeing [Portuguese slavers] south-westwards gathered in the mountains of what is now [[The_World/Lesotho]]"                                                                                                                                                                                                                                                        |       |
+| 479  | "Sobhuza's proto-Swazi likewise retreated to the mountains and founded a nation" [[The_World/Eswatini]]                                                                                                                                                                                                                                                                       |       |
+| 584  | "Seizing on misinterpretations arising from differences in the [[The_World/Amharic]] and [[The_World/Italian]] texts of the [1885] treaty, [[The_World/Italy]] picked a quarrel and self-righteously invaded northern [[The_World/Ethiopia]] in 1890."                                                                                                                                                      |       |
 
 ## Zotero Metadata
 

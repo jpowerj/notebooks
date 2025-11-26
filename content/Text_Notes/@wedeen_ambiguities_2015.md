@@ -1,10 +1,7 @@
 ---
-title: "Ambiguities of Domination"
-tags:
-  - Book
-citekey: "wedeen_ambiguities_2015"
-author: '[[Lisa_Wedeen]]'
+{"publish":true,"title":"Ambiguities of Domination","created":"2025-11-26T03:10:55.860-05:00","modified":"2025-11-26T03:10:55.860-05:00","published":"2025-11-26T03:10:55.860-05:00","tags":["Book"],"cssclasses":""}
 ---
+
 
 > [!Citation]
 > Wedeen, Lisa. _Ambiguities of Domination: Politics, Rhetoric, and Symbols in Contemporary Syria_. University of Chicago Press, 2015. [Google Books Link](https://www.google.com/books?id=Z9toCgAAQBAJ)

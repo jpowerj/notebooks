@@ -1,12 +1,7 @@
 ---
-title: Empire's Workshop
-tags:
-  - Book
-citekey: grandin_empires_2006
-author: "[[Greg_Grandin]]"
-name: 
-authors: 
+{"publish":true,"title":"Empire's Workshop","created":"2025-11-26T03:10:55.858-05:00","modified":"2025-11-26T03:10:55.858-05:00","published":"2025-11-26T03:10:55.858-05:00","tags":["Book"],"cssclasses":""}
 ---
+
 
 ## Citation
 
@@ -19,7 +14,7 @@ Grandin, Greg. _Empire’s Workshop: Latin America, the United States, and the R
 | 102  | "[[El Salvador]] became Washington's most ambitious nation-building project since South Vietnam"                                                                                                                                                                                                                                                                                               |       |
 | 122  | Citation: Alfonso Chardy, "NSC Supervised Office to Influence Opinion", Miami Herald, July 19, 1987                                                                                                                                                                                                                                                                                            |       |
 | 125  | "using polling data to identify Sandinista 'negatives' and Contra 'positives' and to compile 'key words, phrases, or images' that could turn Americans against the Nicaraguan government."                                                                                                                                                                                                     |       |
-| 131  | "By flooding the media with questionable facts and allegations, the [[Office_of_Public_Diplomacy]] forced Reagan's opponents to dissipate their energies disproving allegations rather than making their own positive case for nonintervention"                                                                                                                                                |       |
+| 131  | "By flooding the media with questionable facts and allegations, the [[The_World/Office_of_Public_Diplomacy]] forced Reagan's opponents to dissipate their energies disproving allegations rather than making their own positive case for nonintervention"                                                                                                                                                |       |
 | 155  | "'Killing for the joy of it is wrong', a Paralife minister from the United States comforted his flock of Salvadoran soldiers, but 'killing because it was necessary to fight against an anti-Christ system, communism, was not only right but a duty of every Christian.'"                                                                                                                     |       |
 | 180  | "A week after Reagan's 1980 victory, he [David Rockefeller] toured Chile, Argentina, Brazil, and Paraguay to reassure the generals that, unlike Carter, the new president 'will deal with the world as it is' and not as it should be, promising them that the United States would soon restore full diplomatic and military relations with them no matter what their record on human rights." |       |
 | 194  | Paul Wolfowitz: "American forces under President Clinton's command have been bombing Iraq with some regularity for months now', he wrote approvingly, 'without a whimper of opposition in the Congress and barely a mention in the press.'"                                                                                                                                                    |       |

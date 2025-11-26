@@ -1,10 +1,7 @@
 ---
-title: "Chechnya: The Case for Independence"
-tags:
-  - Book
-citekey: wood_chechnya_2007
-author: "[[Tony_Wood]]"
+{"publish":true,"title":"Chechnya: The Case for Independence","created":"2025-11-26T03:10:55.861-05:00","modified":"2025-11-26T03:10:55.861-05:00","published":"2025-11-26T03:10:55.861-05:00","tags":["Book"],"cssclasses":""}
 ---
+
 
 > [!Citation]
 > Wood, Tony. _Chechnya: The Case for Independence_. Verso Books, 2007. [Google Books Link](https://www.google.com/books?id=N1ucEAAAQBAJ)
