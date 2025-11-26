@@ -1,10 +1,10 @@
 ---
-{"publish":true,"title":"Welcome to Jeff's Second Brain","created":"2024-08-22T00:39:30.859-04:00","modified":"2024-09-02T21:05:15.999-04:00","published":"2024-09-02T21:05:15.999-04:00","cssclasses":""}
+{"publish":true,"title":"Welcome to Jeff's Second Brain","created":"2024-08-22T00:39:30.859-04:00","modified":"2025-11-26T03:06:42.650-05:00","published":"2025-11-26T03:06:42.650-05:00","cssclasses":""}
 ---
 
 > [!faq]- What Is This?
 > 
-### Second Brain
+**Second Brain**
 
 My "first brain" gets tired if it thinks about one thing for more than ~5 minutes, which means that the attention required to complete a [full blog post](https://jjacobs.me/blog) is rare. Hence, this is:
 * Partially a shameless ripoff of Cosma Shalizi's [notebooks](http://bactra.org/notebooks/), and
@@ -13,16 +13,18 @@ Where I'll post the fleeting thoughts that pop up as I read books and make conne
 
 To some extent they're separated into categories, but there are two things that Obsidian+Quartz gives me that I'm hoping will help organize my otherwise-chaotic ADHD brain: **Ontology** and **Cross-References**.
 
-### Ontology
+**Ontology**
 
 At some point between high school/beginning of undergrad, I had my mind completely blown by [[Math/Object-Oriented_Programming]]. To me it was like, discovering the internal language that my brain had been using my whole life to store/organize information.
 
 So far, the main issue with Obsidian is just... it's designed around a bunch of Markdown (`.md` format) files, which is great for a ton of reasons, but it just doesn't exactly match the OOP way of thinking that fires so many serotonins in my brain. It's the closest thing I can find, though, especially when combined with the [Metadata Menu](https://mdelobelle.github.io/metadatamenu/) and [Dataview](https://blacksmithgu.github.io/obsidian-dataview/) plugins!
-### Cross-References
+
+**Cross-References**
 
 Though there are a few top-level categories[^1], the exciting part is when there's a [[Crossover in Categories]], like my main math interest ([[Math/Insolubility_of_the_Quintic\|Insolubility of the Quintic]]) being solved by a 20-year-old [[Math/Evariste_Galois\|Evariste Galois]], who had just recently been released from prison for his participation in the [[The_World/July_Revolution\|July Revolution]] 😱. Or, even more straightforwardly, how I put [[Math/Bertrand_Russell\|Bertrand Russell]] in the [[Math/]] category because I linked to him in the context of [[Axiomatization of Mathematics]], but he also led a super inspiring campaign to hold the US accountable for War Crimes in Vietnam (the [[The_World/Russell-Sartre Tribunal]])!
 
-I'm... still figuring out how in-text citations like [[@wood_chechnya_2007]] work, so bear with me on that part!
+I'm... still figuring out how in-text citations like [[Text_Notes/@wood_chechnya_2007]] work, so bear with me on that part!
+> 
 
 ## Notebook Index
 <!-- QueryToSerialize: TABLE WITHOUT ID link(file.name, title) AS "Page", file.mtime AS "Last Updated" FROM "" WHERE index != "false" AND file.folder != "fileClass" SORT file.mtime DESC -->
@@ -92,6 +94,28 @@ I'm... still figuring out how in-text citations like [[@wood_chechnya_2007]] wor
 
 | Page                                                                                     | Last Updated                 |
 | ---------------------------------------------------------------------------------------- | ---------------------------- |
+| [[Text_Notes/@grandin_empires_2006\|@grandin_empires_2006]]                           | 3:04 AM - November 26, 2025  |
+| [[Text_Notes/@branford_lula_2005\|@branford_lula_2005]]                               | 3:03 AM - November 26, 2025  |
+| [[Text_Notes/@wood_chechnya_2007\|@wood_chechnya_2007]]                               | 2:33 AM - November 26, 2025  |
+| [[Text_Notes/@hacking_representing_1983\|@hacking_representing_1983]]                 | 2:31 AM - November 26, 2025  |
+| [[Text_Notes/@runciman_treatise_1983\|@runciman_treatise_1983]]                       | 2:18 AM - November 26, 2025  |
+| [[Text_Notes/@runciman_social_1969\|@runciman_social_1969]]                           | 2:05 AM - November 26, 2025  |
+| [[Text_Notes/@wolin_politics_1960\|@wolin_politics_1960]]                             | 10:39 PM - November 22, 2025 |
+| [[The_World/Italian\|Italian]]                                                        | 11:54 PM - November 16, 2025 |
+| [[The_World/Italy\|Italy]]                                                            | 11:54 PM - November 16, 2025 |
+| [[The_World/Amharic\|Amharic]]                                                        | 11:53 PM - November 16, 2025 |
+| [[The_World/Ethiopia\|Ethiopia]]                                                      | 11:53 PM - November 16, 2025 |
+| [[Text_Notes/@reader_africa_1999\|@reader_africa_1999]]                               | 11:50 PM - November 16, 2025 |
+| [[The_World/Liberia\|Liberia]]                                                        | 11:49 PM - November 16, 2025 |
+| [[The_World/Cote d'Ivoire\|Cote d'Ivoire]]                                            | 11:48 PM - November 16, 2025 |
+| [[The_World/Eswatini\|Eswatini]]                                                      | 11:48 PM - November 16, 2025 |
+| [[The_World/Ghana\|Ghana]]                                                            | 11:45 PM - November 16, 2025 |
+| [[The_World/Germany\|Germany]]                                                        | 11:43 PM - November 16, 2025 |
+| [[The_World/African National Congress\|African National Congress]]                    | 11:43 PM - November 16, 2025 |
+| [[The_World/Occupied_Namibia\|Occupied_Namibia]]                                      | 11:43 PM - November 16, 2025 |
+| [[The_World/Portugal\|Portugal]]                                                      | 11:41 PM - November 16, 2025 |
+| [[The_World/Lesotho\|Lesotho]]                                                        | 11:40 PM - November 16, 2025 |
+| [[Text_Notes/@fisher_capitalist_2009\|@fisher_capitalist_2009]]                       | 9:16 PM - November 15, 2025  |
 | [[Growth/101 Coping Skills\|101 Coping Skills]]                                       | 7:23 PM - July 05, 2025      |
 | [[Math/tf-idf\|tf-idf]]                                                               | 4:42 AM - May 06, 2025       |
 | [[The_World/Chechnya\|Chechnya]]                                                      | 7:29 PM - April 02, 2025     |
@@ -103,7 +127,6 @@ I'm... still figuring out how in-text citations like [[@wood_chechnya_2007]] wor
 | [[Text_Notes/@wedeen_ambiguities_2015\|@wedeen_ambiguities_2015]]                     | 11:42 PM - December 26, 2024 |
 | [[templates/Zotero_LitNote\|Zotero_LitNote]]                                          | 11:36 PM - December 26, 2024 |
 | [[The_World/Office_of_Public_Diplomacy\|Office_of_Public_Diplomacy]]                  | 11:34 PM - December 26, 2024 |
-| [[Text_Notes/@grandin_empires_2006\|@grandin_empires_2006]]                           | 11:33 PM - December 26, 2024 |
 | [[The_World/Greg_Grandin\|Greg_Grandin]]                                              | 11:32 PM - December 26, 2024 |
 | [[The_World/El_Salvador\|El_Salvador]]                                                | 4:57 AM - December 23, 2024  |
 | [[The_World/Palestine\|Palestine]]                                                    | 9:07 PM - November 15, 2024  |
@@ -140,7 +163,6 @@ I'm... still figuring out how in-text citations like [[@wood_chechnya_2007]] wor
 | [[The_World/Rhodesian_UDI\|Rhodesian_UDI]]                                            | 6:33 PM - August 06, 2024    |
 | [[The_World/Quantification\|Quantification]]                                          | 6:33 PM - August 06, 2024    |
 | [[The_World/Population_Transfers\|Population_Transfers]]                              | 6:33 PM - August 06, 2024    |
-| [[The_World/Occupied_Namibia\|Occupied_Namibia]]                                      | 6:33 PM - August 06, 2024    |
 | [[The_World/Lenin\|Lenin]]                                                            | 6:33 PM - August 06, 2024    |
 | [[The_World/Lao_Peoples_Democratic_Republic\|Lao_Peoples_Democratic_Republic]]        | 6:32 PM - August 06, 2024    |
 | [[The_World/First_Chechen_War\|First_Chechen_War]]                                    | 6:32 PM - August 06, 2024    |
