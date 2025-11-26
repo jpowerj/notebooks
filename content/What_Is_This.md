@@ -1,8 +1,8 @@
 ---
-{"publish":true,"aliases":"What Is This?","title":"What Is This?","created":"2025-11-26T03:10:55.875-05:00","modified":"2025-11-26T03:12:14.906-05:00","published":"2025-11-26T03:12:14.906-05:00","cssclasses":""}
+{"publish":true,"aliases":"What Is This?","title":"What Is This?","created":"2025-11-26T03:10:55.875-05:00","modified":"2025-11-26T03:18:35.027-05:00","published":"2025-11-26T03:18:35.027-05:00","cssclasses":""}
 ---
 
-**Second Brain**
+### Second Brain
 
 My "first brain" gets tired if it thinks about one thing for more than ~5 minutes, which means that the attention required to complete a [full blog post](https://jjacobs.me/blog) is rare. Hence, this is:
 * Partially a shameless ripoff of Cosma Shalizi's [notebooks](http://bactra.org/notebooks/), and
@@ -10,14 +10,12 @@ My "first brain" gets tired if it thinks about one thing for more than ~5 minute
 Where I'll post the fleeting thoughts that pop up as I read books and make connections between things 🙈.
 
 To some extent they're separated into categories, but there are two things that Obsidian+Quartz gives me that I'm hoping will help organize my otherwise-chaotic ADHD brain: **Ontology** and **Cross-References**.
-
-**Ontology**
+### Ontology
 
 At some point between high school/beginning of undergrad, I had my mind completely blown by [[Math/Object-Oriented_Programming]]. To me it was like, discovering the internal language that my brain had been using my whole life to store/organize information.
 
 So far, the main issue with Obsidian is just... it's designed around a bunch of Markdown (`.md` format) files, which is great for a ton of reasons, but it just doesn't exactly match the OOP way of thinking that fires so many serotonins in my brain. It's the closest thing I can find, though, especially when combined with the [Metadata Menu](https://mdelobelle.github.io/metadatamenu/) and [Dataview](https://blacksmithgu.github.io/obsidian-dataview/) plugins!
-
-**Cross-References**
+### Cross-References
 
 Though there are a few top-level categories[^1], the exciting part is when there's a [[Crossover in Categories]], like my main math interest ([[Math/Insolubility_of_the_Quintic\|Insolubility of the Quintic]]) being solved by a 20-year-old [[Math/Evariste_Galois\|Evariste Galois]], who had just recently been released from prison for his participation in the [[The_World/July_Revolution\|July Revolution]] 😱. Or, even more straightforwardly, how I put [[Math/Bertrand_Russell\|Bertrand Russell]] in the [[Math/]] category because I linked to him in the context of [[Axiomatization of Mathematics]], but he also led a super inspiring campaign to hold the US accountable for War Crimes in Vietnam (the [[The_World/Russell-Sartre Tribunal]])!
 
