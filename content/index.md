@@ -1,8 +1,10 @@
 ---
-{"publish":true,"title":"Welcome to Jeff's Second Brain","created":"2025-11-26T03:10:55.879-05:00","modified":"2025-11-26T03:10:55.880-05:00","published":"2025-11-26T03:10:55.880-05:00","cssclasses":""}
+{"publish":true,"title":"Welcome to Jeff's Second Brain","created":"2025-11-26T03:10:55.879-05:00","modified":"2025-11-26T03:12:51.893-05:00","published":"2025-11-26T03:12:51.893-05:00","cssclasses":""}
 ---
 
+
 > [!faq]- What Is This?
+> 
 > 
 **Second Brain**
 
@@ -204,18 +206,3 @@ I'm... still figuring out how in-text citations like [[Text_Notes/@wood_chechnya
 | [[References\|References]] |
 | [[The_World\|The_World]]   |
 <!-- SerializedQuery END -->
-
-
-<!-- 
-| Category                   |
-| -------------------------- |
-| [[Art_Things\|Art_Things]] |
-| [[Day_to_Day\|Day_to_Day]] |
-| [[Growth\|Growth]]         |
-| [[Math\|Math]]             |
-| [[Misc\|Misc]]             |
-| [[templates\|templates]]   |
-| [[Text_Notes\|Text_Notes]] |
-| [[The_World\|The_World]]   |
-
--->

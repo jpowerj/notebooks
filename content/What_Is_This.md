@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"What Is This?","title":"What Is This?","created":"2025-11-26T03:10:55.875-05:00","modified":"2025-11-26T03:10:55.876-05:00","published":"2025-11-26T03:10:55.876-05:00","cssclasses":""}
+{"publish":true,"aliases":"What Is This?","title":"What Is This?","created":"2025-11-26T03:10:55.875-05:00","modified":"2025-11-26T03:12:14.906-05:00","published":"2025-11-26T03:12:14.906-05:00","cssclasses":""}
 ---
 
 **Second Brain**
