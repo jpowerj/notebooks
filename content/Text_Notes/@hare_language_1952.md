@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-12-23T18:51:34.701-05:00","modified":"2025-12-23T19:00:43.769-05:00","published":"2025-12-23T19:00:43.769-05:00","tags":["Book"],"cssclasses":""}
+{"publish":true,"title":"The Language of Morals","created":"2025-12-23T18:51:34.701-05:00","modified":"2025-12-23T19:22:13.460-05:00","published":"2025-12-23T19:22:13.460-05:00","tags":["Book"],"cssclasses":""}
 ---
 
 
