@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-01-18T18:36:21.202-05:00","modified":"2026-01-18T18:37:13.136-05:00","published":"2026-01-18T18:37:13.136-05:00","tags":["Book"],"cssclasses":""}
+{"publish":true,"title":"Mikhail Bakunin","created":"2026-01-18T18:36:21.202-05:00","modified":"2026-03-01T01:04:51.278-05:00","published":"2026-03-01T01:04:51.278-05:00","tags":["Book","Biography"],"cssclasses":""}
 ---
 
 
