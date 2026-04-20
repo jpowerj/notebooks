@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-04-12T21:37:28.475-04:00","modified":"2026-04-12T21:42:56.347-04:00","published":"2026-04-12T21:42:56.347-04:00","tags":["Book"],"cssclasses":""}
+{"publish":true,"title":"The Indian Ideology","created":"2026-04-12T21:37:28.475-04:00","modified":"2026-04-19T20:51:40.127-04:00","published":"2026-04-19T20:51:40.127-04:00","tags":["Book"],"cssclasses":""}
 ---
 
 
